@@ -34,7 +34,7 @@
     "react-dom": "17.0.2",
     "react-github-btn": "1.2.1",
     "react-router-dom": "6.2.1",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "5.0.0",
     "react-table": "7.7.0",
     "stylis": "4.0.13",
     "stylis-plugin-rtl": "2.1.1",
@@ -73,7 +73,7 @@
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-jsx-a11y": "6.5.1",
     "eslint-plugin-prettier": "4.0.0",
-    "eslint-plugin-react": "7.28.0",
+    "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "4.3.0",
     "prettier": "2.5.1"
   }
